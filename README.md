@@ -8,9 +8,9 @@ A beautiful and intuitive Flutter-based app that allows users to translate text 
 
 | Initial Screen | Translated Output |
 |----------------|--------------------|
-| ![Input](screenshots/translator_input.png) | ![Output](screenshots/translator_output.png) |
+| ![Input](https://github.com/Balahariharan333/Language_Translator_App/blob/master/language_translator/LanguageTranslatorApp%20Screenshots/Screenshot%202025-06-12%20063657.png?raw=true)| ![Output](screenshots/translator_output.png) |
 
-> *(Save your screenshots as `translator_input.png` and `translator_output.png` in a folder named `screenshots/`)*
+
 
 ---
 
@@ -30,7 +30,5 @@ A beautiful and intuitive Flutter-based app that allows users to translate text 
 - 🔤 Dart
 - 🌐 Translation API (like Google Translate API / LibreTranslate API)
 
----
 
-## 📁 Folder Structure (Suggestion)
 
